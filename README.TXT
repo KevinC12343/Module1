@@ -9,7 +9,8 @@ I wnated to demonstarte what we cna do, and fun ways to do it.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-Youtube - (https://youtu.be/Fz4M4uQrG1A)
+Youtube - (https://www.youtube.com/watch?v=Fz4M4uQrG1A)
+
 
 # Development Environment
 
